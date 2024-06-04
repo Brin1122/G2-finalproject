@@ -72,3 +72,5 @@ distribute_button.on_click(on_button_click)
 # 위젯 표시
 display(student_name, distribute_button, output)
 ```
+- Activity 2
+```
