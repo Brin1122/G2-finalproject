@@ -16,6 +16,119 @@ As they reached the heart of the cave, they discovered an ancient chest hidden b
 The legend of the Guardian of the Glen lived on, not just as a protector but as a symbol of adventure and discovery, inspiring future generations to explore the mysteries of Echo Ridge.
 - 6/4 코딩 짜기
 ### Activity 1️⃣
+```
+# Gradio 설치 (Colab에서는 처음 한 번만 실행)
+%%capture
+!pip install gradio
+
+import gradio as gr
+
+# 단어와 뜻, 예제를 저장하는 딕셔너리
+dictionary = {
+    "nestled": {
+        "meaning": "Settled comfortably or cozily.",
+        "example": "The cabin was nestled in the valley."
+    },
+    "towering": {
+        "meaning": "Very tall or high.",
+        "example": "The towering skyscrapers dominated the city skyline."
+    },
+    "guardian": {
+        "meaning": "Someone or something that protects.",
+        "example": "The dog was the guardian of the house."
+    },
+    "perch": {
+        "meaning": "A high or elevated position.",
+        "example": "The bird sat on its perch, looking out over the field."
+    },
+    "supposedly": {
+        "meaning": "According to what is generally assumed or believed.",
+        "example": "Supposedly, this path leads to the hidden cave."
+    },
+    "adventurous": {
+        "meaning": "Willing to take risks or try out new experiences.",
+        "example": "She was feeling adventurous and decided to try skydiving."
+    },
+    "daring": {
+        "meaning": "Willing to take bold risks.",
+        "example": "His daring escape from the prison was legendary."
+    },
+    "fascination": {
+        "meaning": "A strong interest or attraction.",
+        "example": "Her fascination with ancient history led her to become an archaeologist."
+    },
+    "lore": {
+        "meaning": "Traditional knowledge or stories passed down through generations.",
+        "example": "The old man shared the lore of the village with the children."
+    },
+    "expedition": {
+        "meaning": "A journey undertaken for a specific purpose, often exploration.",
+        "example": "The expedition to the North Pole was a great success."
+    },
+    "landmark": {
+        "meaning": "An object or structure that serves as a point of reference.",
+        "example": "The Eiffel Tower is one of Paris's most famous landmarks."
+    },
+    "trekked": {
+        "meaning": "Made a long and difficult journey, especially on foot.",
+        "example": "They trekked through the jungle for three days."
+    },
+    "dense": {
+        "meaning": "Thick and hard to see through.",
+        "example": "The dense fog made driving very difficult."
+    },
+    "navigated": {
+        "meaning": "Planned and directed the course of a journey.",
+        "example": "The captain skillfully navigated the ship through the storm."
+    },
+    "tricky": {
+        "meaning": "Difficult to deal with or handle.",
+        "example": "The tricky puzzle took hours to solve."
+    },
+    "magnificent": {
+        "meaning": "Extremely beautiful or impressive.",
+        "example": "The view from the mountain top was magnificent."
+    },
+    "intricate": {
+        "meaning": "Very detailed and complicated.",
+        "example": "The intricate design on the vase was handmade."
+    },
+    "stalactite": {
+        "meaning": "An icicle-shaped formation that hangs from the ceiling of a cave.",
+        "example": "The cave was filled with stalactites and stalagmites."
+    },
+    "ventured": {
+        "meaning": "Went somewhere that might be dangerous.",
+        "example": "They ventured into the dark forest despite the warnings."
+    },
+    "artifact": {
+        "meaning": "An object made by humans, typically of historical interest.",
+        "example": "The museum displayed artifacts from ancient Egypt."
+    }
+}
+
+def lookup_word(word):
+    word = word.lower()  # 단어를 소문자로 변환하여 검색
+    if word in dictionary:
+        meaning = dictionary[word]["meaning"]
+        example = dictionary[word]["example"]
+        return f"Meaning: {meaning}\nExample: {example}"
+    else:
+        return "Sorry, that word is not in the dictionary."
+
+# Gradio 인터페이스 설정
+iface = gr.Interface(
+    fn=lookup_word,  # 호출할 함수
+    inputs="text",  # 입력 타입
+    outputs="text",  # 출력 타입
+    title="Dictionary Lookup",  # UI 제목
+    description="Enter an English word to get its meaning and an example sentence."  # UI 설명
+)
+
+# Gradio 인터페이스 실행
+iface.launch()
+```
+### Activity 2️⃣
 ```import random
 import ipywidgets as widgets
 from IPython.display import display
@@ -73,5 +186,5 @@ distribute_button.on_click(on_button_click)
 # 위젯 표시
 display(student_name, distribute_button, output)
 ```
-### Activity 2️⃣
+### Activity 3️⃣
 ```
