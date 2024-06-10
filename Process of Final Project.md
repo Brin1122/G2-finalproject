@@ -15,7 +15,7 @@ As they reached the heart of the cave, they discovered an ancient chest hidden b
 - passage 4 : Realizing the historical significance of their find, they decided to donate the artifacts to the local museum. The village celebrated their discovery, and the children were hailed as heroes. Their adventure brought the community together, sparking a renewed interest in the history and legends of Echo Ridge. Alex, Mia, and Sam became local legends, known not only for their daring but also for their spirit of discovery and respect for heritage. They continued to explore the mountains, each adventure strengthening their friendship and deepening their connection to their village.
 The legend of the Guardian of the Glen lived on, not just as a protector but as a symbol of adventure and discovery, inspiring future generations to explore the mysteries of Echo Ridge.
 - 6/4 코딩 짜기
-- Activity 1
+### Activity 1️⃣
 ```import random
 import ipywidgets as widgets
 from IPython.display import display
@@ -73,5 +73,5 @@ distribute_button.on_click(on_button_click)
 # 위젯 표시
 display(student_name, distribute_button, output)
 ```
-- Activity 2
+### Activity 2️⃣
 ```
