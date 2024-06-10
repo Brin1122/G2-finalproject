@@ -1,9 +1,10 @@
-- Presentation Date : 6/18
-- Role : Presenter = 김서현 / Teacher = 김나영 / Student = 추수현
+### Presentation Date : 6/18
+- Role : Presenter🗣️ = 김서현 / Teacher👩‍🏫 = 김나영 / Student👩‍🎓 = 추수현
 - 5/21 Discussion : 조별로 배정된 문장들을 해석하는 것을 발표한 후 다같이 스토리에 맞게 순서 배열(나눠주는 것에 앱 사용) / 문장에 한 단어 밑줄 친 후 의미가 비슷한 단어 고르기(객관식, 문법 활동)
 - 5/28 Discussion : 활동 1. 본문을 몇문장씩 나눈 후 조별로 배분(앱 사용) -> 각자 해석한 내용을 발표한 후 다같이 스토리에 맞게 순서 배열 / 활동 2. 문장별로 한 단어씩 밑줄 친 후 의미가 비슷한 단어 고르기(객관식 문법 문제-앱 사용)
 - 활동 목표 : 조별활동을 함으로써 협동력을 키우고 스스로 해석하고 이야기의 흐름을 파악하는 문해력을 키울 수 있다. 유의어에 관한 문제를 풂으로써 어휘력을 키울 수 있다.
 - 다음 시간(6/4) 계획 : 코드 작성, 발표 개요 의논
+### 📖Our Story
 - passage 1 : In the small mountain village of Echo Ridge, adventure was a part of everyday life. Nestled among towering peaks, the village was said to be protected by the "Guardian of the Glen," a massive eagle that supposedly watched over the villagers from its perch high in the mountains. The legend inspired many adventurous tales among the villagers, especially the children.
 Among these children was a bright-eyed eighth grader named Alex. Alex was known for his daring spirit and his love for exploring the rugged landscapes around Echo Ridge. He had a particular fascination with the old maps and tales of hidden treasures that had been lost in the mountains centuries ago.
 One day, while exploring the local library, Alex stumbled upon an ancient map tucked inside a forgotten book on village lore. The map hinted at the location of a lost treasure, hidden deep within a cave known as Whispering Hollow. Excited by the prospect of a real adventure, Alex decided to seek out the treasure.
