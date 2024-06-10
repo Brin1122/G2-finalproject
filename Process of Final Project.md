@@ -188,3 +188,50 @@ display(student_name, distribute_button, output)
 ```
 ### Activity 3️⃣
 ```
+import gradio as gr
+import requests
+
+# 외부 URL에서 텍스트 가져오기
+url = "https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story02.txt"
+story = requests.get(url).text
+
+# 퀴즈 질문 정의
+questions = [
+    {"question": "1. Nestled among towering peaks, the village was said ______ by the 'Guardian of the Glen,' a massive eagle that supposedly watched over the villagers from its perch high in the mountains.", "options": ["to protect", "to be protected", "to being protected"], "answer": "to be protected"},
+    {"question": "2. He had a particular fascination with the old maps and tales of hidden treasures that ______ in the mountains centuries ago.", "options": ["had been lost", "had lost", "had being lost"], "answer": "had been lost"},
+    {"question": "3. What is not a synonym for extensively?", "options": ["widely", "narrowly", "largeky"], "answer": "narrowly"},
+    {"question": "4. What is a synonym for magnificent?", "options": ["uninspiring", "splendid", "modest"], "answer": "splendid"},
+    {"question": "5. What is the antonym of intricate?", "options": ["complex", " complicated", "straightforward"], "answer": "straightforward"},
+    {"question": "6. The cave was more magnificent than they ______, filled with intricate stalactites and echoes of dripping water.", "options": ["had imagined", "imagined", "had been imagined"], "answer": "had imagined"},
+    {"question": "7. Where did the children donate the artifacts?", "options": ["a local museum", "a national museum", "the Archaeological Association"], "answer": "a local museum"},
+    {"question": "8. What is the supposed guardian of Glen?", "options": ["Tiger", "Eagle", "Dragon"], "answer": "Eagle"}
+]
+# 퀴즈 함수
+def quiz(*answers):
+    score = 0
+    incorrect = []
+    for i, question in enumerate(questions):
+        if answers[i] == question["answer"]:
+            score += 1
+        else:
+            incorrect.append(f"Question {i+1}: Correct answer is {question['answer']}")
+    results = "\n".join(incorrect)
+    return score, results
+
+# Gradio 인터페이스 설정
+story_display = gr.Markdown(story)
+inputs = [gr.Radio(label=q["question"], choices=q["options"], type="value") for q in questions]
+outputs = [gr.Textbox(label="Score"), gr.Textbox(label="Incorrect Answers")]
+
+iface = gr.Interface(
+    fn=quiz,
+    inputs=inputs,
+    outputs=outputs,
+    description="Comprehension Quiz for 'The Guardian's Secret'",
+    title="The Guardian's Secret Quiz",
+    theme="default",
+    allow_flagging="never"
+)
+
+iface.launch(share=True)
+```
