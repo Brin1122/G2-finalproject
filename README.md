@@ -1,4 +1,5 @@
 # G2 Final Project ✨
+## ⏰ Lesson Plan
 | Activity | Time | 
 |--------|----------|
 | Vocabulary | 5m |
