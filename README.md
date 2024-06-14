@@ -1,4 +1,11 @@
 # G2 Final Project ✨
+| Activity | Time | 
+|--------|----------|
+| Vocabulary | 5m |
+| Group Activity | 10m |
+| Group Presentation | 15m |
+| Flow of a Story | 5m |
+| Quiz&Solving | 20m |
 ## 📌 Lesson Objectives
 1. The process of teaching vocabulary enhances students' vocabulary skills.
 2. The process of self-interpretation enhances students' reading skills, and group activities can also foster cooperative spirit.
