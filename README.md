@@ -69,3 +69,4 @@
 ![image](https://github.com/Brin1122/G2-finalproject/blob/39456fe12fca067850757a3b0c3d7da0050fc69e/QR_4.png)
 
 2. Descriptive
+- __Use the Padlet.__
