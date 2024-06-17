@@ -50,7 +50,7 @@
 3. Collaborate with group members to translate the paragraph.
 
 [Group Activity](https://huggingface.co/spaces/kimsh77/Activity_2)
-![image](https://github.com/Brin1122/G2-finalproject/blob/eb70363cb4695fa8e0f11fee99ff51c963a50ab0/QR_2.png)
+![image](https://github.com/Brin1122/G2-finalproject/blob/c1a55af8cf57e8bbae52dd84fc3d38c9b1ff9a68/QR_2.png)
 
 - __*The process of self-interpretation enhances students' reading skills, and group activities can also foster cooperative spirit.*__
 ## Activity 3️⃣ : Arrange the order of paragraphs
