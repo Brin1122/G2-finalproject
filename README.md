@@ -49,8 +49,7 @@
 2. __Each group is assigned one paragraph.__
 3. Collaborate with group members to translate the paragraph.
 
-[Group Activity](https://855946870af1e745a6.gradio.live)
-
+[Group Activity](https://b3454750ceec9f0e2d.gradio.live)
 ![image](https://github.com/Brin1122/G2-finalproject/blob/eb70363cb4695fa8e0f11fee99ff51c963a50ab0/QR_2.png)
 
 - __*The process of self-interpretation enhances students' reading skills, and group activities can also foster cooperative spirit.*__
