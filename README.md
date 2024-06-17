@@ -65,7 +65,7 @@
 
 [Multiple Choice](https://huggingface.co/spaces/kimsh77/Activity_4)
 
-![image](https://github.com/Brin1122/G2-finalproject/blob/39456fe12fca067850757a3b0c3d7da0050fc69e/QR_4.png)
+![image](https://github.com/Brin1122/G2-finalproject/blob/535f3a818460b93317da48dbe016efe62b2e4421/QR_4.png)
 
 2. Descriptive
 - __Use the Padlet.__
