@@ -63,7 +63,7 @@
 ## Activity 4️⃣ : Quiz ❓
 1. Multiple Choice
 
-[Multiple Choice](https://ce1183eacd704e7c95.gradio.live)
+[Multiple Choice](https://7862cd7df2803c8ca7.gradio.live)
 
 ![image](https://github.com/Brin1122/G2-finalproject/blob/39456fe12fca067850757a3b0c3d7da0050fc69e/QR_4.png)
 
