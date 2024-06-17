@@ -61,11 +61,13 @@
 - __*This activity enhances students' reading comprehension.*__
 
 ## Activity 4️⃣ : Quiz ❓
-1. Multiple Choice
+### 1. Multiple Choice
 
 [Multiple Choice](https://huggingface.co/spaces/kimsh77/Activity_4)
 
 ![image](https://github.com/Brin1122/G2-finalproject/blob/535f3a818460b93317da48dbe016efe62b2e4421/QR_4.png)
 
-2. Descriptive
-- __Use the Padlet.__
+### 2. Descriptive
+- __Use the Padlet.__ ❗
+#### 📝 Writing : Alternative Ending
+- __Imagine that the story had a different ending.__ When Alex, Mia, and Sam discovered the treasure chest, it was filled with gold and jewels instead of historical artifacts. How would the story have unfolded with this discovery? Write an alternative ending of 200 to 300 words describing what they did with the gold and jewels and how this discovery changed Echo Ridge. Consider how the characters’ actions and the village’s reaction might differ from the original story.
