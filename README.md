@@ -39,7 +39,7 @@
 |   19    | ventured     |
 |   20    | artifact     |
 
-[Vocabulary Activity](https://392393f78e77753525.gradio.live)
+[Vocabulary Activity](https://huggingface.co/spaces/kimsh77/Activity_1)
 
 ![image](https://github.com/Brin1122/G2-finalproject/blob/bcee8ce35025e5660ee7706f4d2d6bfa12744d66/QR_1.png)
 
