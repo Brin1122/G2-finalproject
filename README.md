@@ -39,7 +39,7 @@
 |   19    | ventured     |
 |   20    | artifact     |
 
-[Vocabulary Activity](https://3697bed50277217715.gradio.live)
+[Vocabulary Activity](https://392393f78e77753525.gradio.live)
 
 ![image](https://github.com/Brin1122/G2-finalproject/blob/bcee8ce35025e5660ee7706f4d2d6bfa12744d66/QR_1.png)
 
@@ -49,7 +49,7 @@
 2. __Each group is assigned one paragraph.__
 3. Collaborate with group members to translate the paragraph.
 
-[Group Activity](https://b3454750ceec9f0e2d.gradio.live)
+[Group Activity](https://18636544411dbc5013.gradio.live)
 ![image](https://github.com/Brin1122/G2-finalproject/blob/eb70363cb4695fa8e0f11fee99ff51c963a50ab0/QR_2.png)
 
 - __*The process of self-interpretation enhances students' reading skills, and group activities can also foster cooperative spirit.*__
