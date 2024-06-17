@@ -41,7 +41,7 @@
 
 [Vocabulary Activity](https://huggingface.co/spaces/kimsh77/Activity_1)
 
-![image](https://github.com/Brin1122/G2-finalproject/blob/bcee8ce35025e5660ee7706f4d2d6bfa12744d66/QR_1.png)
+![image](https://github.com/Brin1122/G2-finalproject/blob/0219f74003dd2427a07522120e6b055b268f3c86/QR_1.png)
 
 - __*This activity enhances students' vocabulary skills.*__
 ## Activity 2️⃣ : Group Activity 🧑‍🤝‍🧑
