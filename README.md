@@ -47,7 +47,7 @@
 ## Activity 2️⃣ : Group Activity 🧑‍🤝‍🧑
 1. Divide into groups. (We will assume that we are dividing into four groups.)
 2. __Each group is assigned one paragraph.__
-3. Collaborate with group members to translate the paragraph.
+3. Collaborate with group members to understand the paragraph's content.
 
 [Group Activity](https://huggingface.co/spaces/kimsh77/Activity_2)
 ![image](https://github.com/Brin1122/G2-finalproject/blob/c1a55af8cf57e8bbae52dd84fc3d38c9b1ff9a68/QR_2.png)
