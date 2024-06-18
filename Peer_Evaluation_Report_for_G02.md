@@ -1,14 +1,18 @@
 # 💙💙💙 Peer Evaluation & Presentation Review for Group 2 (0619, by MK316)
 
-+ Based on the peer feedback received after teaching the digital literacy and English education course, it is clear that the innovative use of coding to integrate familiar games like Hangman into the curriculum was highly appreciated. The students found the incorporation of a Hangman game, coded for classroom use, particularly engaging. This approach not only made the lessons more interactive but also effectively drew student participation, especially in group activities.
++ Based on the peer feedback received for Group 2 after teaching the digital literacy and English education course, it is evident that the use of QR codes and innovative methods to engage students was highly effective. The frequent use of QR codes allowed students to easily access quizzes, enhancing their learning experience. The approach of using English definitions for vocabulary words instead of translations helped improve students' comprehension and retention of new words.
 
-+ The integration of multiple apps into group activities was another highlight, providing a well-rounded learning experience. Creating videos to accompany storytelling sessions was noted as a standout feature, making the lessons more relatable and easier for all students to engage with. The simplicity and accessibility of these activities ensured high levels of student involvement.
++ One notable highlight was the activity where students were encouraged to finish a story with an open ending, promoting their storytelling skills and creativity. This method, combined with writing exercises that required imaginative thinking, was particularly impactful. The clear and confident voice of the presenter also contributed to the effectiveness of the sessions.
 
-+ The use of the Hangman game to conduct vocabulary tests was both innovative and engaging, capturing the students' interest and enhancing their focus. This method of integrating technology into traditional word activities was seen as a refreshing and effective way to stimulate learning.
++ The activity where students had to arrange the sequence of a story to match the new ending was engaging and kept their interest high. Additionally, providing definitions in English rather than their native language encouraged students to understand and use the language contextually, although it was noted that this could be challenging for those less proficient in English.
 
-+ The effort put into coding the Hangman game to make it function like a real game was recognized and appreciated. It demonstrated a creative approach to making learning fun and interactive. The structured progression through word learning, story learning, story review, and grammar practice provided a comprehensive learning experience, ensuring students' understanding and retention.
++ Incorporating examples and separating multiple-choice and descriptive questions for vocabulary apps were appreciated as it catered to different learning preferences and levels. The final activity, where students posted their story endings on Padlet, was both fun and educational, allowing them to demonstrate their understanding and creativity.
 
-+ Overall, the feedback indicates that combining coding with educational activities, particularly through familiar and engaging games like Hangman, significantly enhanced the learning experience. The creative use of digital tools to transform traditional classroom activities into interactive digital experiences was highly valued by the students. 😍
++ The use of apps designed for student-centered learning was impressive. The inclusion of examples in vocabulary learning apps and the practice of typing words helped reinforce spelling and usage skills. The feedback suggested that while explaining vocabulary in English was innovative, it might need adjustments for students with lower proficiency levels to avoid difficulties.
+
++ The final takeaway was the significant engagement and creativity fostered through these activities, with the recommendation to include more group activities, thought-provoking paragraph sequencing tasks, and similar engaging exercises to enhance the learning experience further.
+
++ Overall, the feedback highlights the success of combining digital tools with creative teaching strategies to foster an engaging and comprehensive learning environment. 😍
 
 
 
