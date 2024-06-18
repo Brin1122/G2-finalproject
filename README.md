@@ -78,4 +78,5 @@
 - __Use the Padlet.__ ❗
 ### 📝 Writing : Alternative Ending
 - __Imagine that the story had a different ending.__ When Alex, Mia, and Sam discovered the treasure chest, it was filled with gold and jewels instead of historical artifacts. How would the story have unfolded with this discovery? Write an alternative ending of 100 to 150 words describing what they did with the gold and jewels and how this discovery changed Echo Ridge. Consider how the characters’ actions and the village’s reaction might differ from the original story.
+
 [Padlet](https://padlet.com/mirankim316/digital-literacy-and-english-education-spring-2024-2gmo48o5djxsjpqa)
