@@ -24,7 +24,7 @@
 
 ![Score summary](https://github.com/MK316/Spring2024/blob/main/DLEE/Project/DLEE_G02.png)
 
-## [2] Essay feedback 1: _What do you think are the most valuable lessons from that group's presentation?_
+## [2] Essay feedback: _What was the best part of this group's presentation?_
 
 ![image](https://github.com/Brin1122/G2-finalproject/assets/99416359/5dc2b44b-b5f1-4bca-abf4-0cd86d74f91c)
 
