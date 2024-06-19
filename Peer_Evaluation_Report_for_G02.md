@@ -1,6 +1,6 @@
 # 💙💙💙 Peer Evaluation & Presentation Review for Group 2 (0619, by MK316)
 
-+ Based on the peer feedback received for Group 2 after teaching the digital literacy and English education course, it is evident that the use of QR codes and innovative methods to engage students was highly effective. The frequent use of QR codes allowed students to easily access quizzes, enhancing their learning experience. The approach of using English definitions for vocabulary words instead of translations helped improve students' comprehension and retention of new words.
+Based on the peer feedback received for Group 2 after teaching the digital literacy and English education course, it is evident that the use of QR codes and innovative methods to engage students was highly effective. The frequent use of QR codes allowed students to easily access quizzes, enhancing their learning experience. The approach of using English definitions for vocabulary words instead of translations helped improve students' comprehension and retention of new words.
 
 + One notable highlight was the activity where students were encouraged to finish a story with an open ending, promoting their storytelling skills and creativity. This method, combined with writing exercises that required imaginative thinking, was particularly impactful. The clear and confident voice of the presenter also contributed to the effectiveness of the sessions.
 
@@ -8,7 +8,7 @@
 
 + Incorporating examples and separating multiple-choice and descriptive questions for vocabulary apps were appreciated as it catered to different learning preferences and levels. The final activity, where students posted their story endings on Padlet, was both fun and educational, allowing them to demonstrate their understanding and creativity.
 
-+ The use of apps designed for student-centered learning was impressive. The inclusion of examples in vocabulary learning apps and the practice of typing words helped reinforce spelling and usage skills. The feedback suggested that while explaining vocabulary in English was innovative, it might need adjustments for students with lower proficiency levels to avoid difficulties.
++ The use of apps designed for **student-centered learning** was impressive. The inclusion of examples in vocabulary learning apps and the practice of typing words helped reinforce spelling and usage skills. The feedback suggested that while explaining vocabulary in English was innovative, it might need adjustments for students with lower proficiency levels to avoid difficulties.
 
 + The final takeaway was the significant engagement and creativity fostered through these activities, with the recommendation to include more group activities, thought-provoking paragraph sequencing tasks, and similar engaging exercises to enhance the learning experience further.
 
